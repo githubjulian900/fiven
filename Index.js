@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+const config = require('config.json')
 
 bot.on('guildMemberAdd', member => {
     const exampleEmbed = new Discord.RichEmbed()
