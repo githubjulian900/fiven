@@ -10,3 +10,6 @@ bot.on('guildMemberAdd', member => {
 
     member.guild.channels.get('605000838573850635').send(exampleEmbed);
 })
+
+
+bot.login(process.env.token)
