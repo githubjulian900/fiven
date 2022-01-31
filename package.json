@@ -1,9 +1,9 @@
 {
-  "name": "nodejs-console-app1",
+  "name": "fiven",
   "version": "0.0.0",
-  "description": "NodejsConsoleApp1",
+  "description": "",
   "main": "app.js",
   "author": {
-    "name": ""
+    "name": "julian"
   }
 }
